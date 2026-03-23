@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mani\Mani.csproj" />
+    <ProjectReference Include="..\Prod\Prod.csproj" />
+    <ProjectReference Include="..\Prog\Prog.csproj" />
+  </ItemGroup>
+
 </Project>
