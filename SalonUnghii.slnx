@@ -2,5 +2,6 @@
   <Project Path="../Mani/Mani.csproj" Id="fda0f06a-f8e7-41f7-9c5f-83d2d8251171" />
   <Project Path="../Prod/Prod.csproj" Id="41fc231f-efbd-47b9-97ed-d7356b28de9f" />
   <Project Path="../Prog/Prog.csproj" Id="1359aa60-6f49-4ab9-ba4c-4c616d11b513" />
+  <Project Path="../SalonUnghii.WPF/SalonUnghii.WPF.csproj" />
   <Project Path="SalonUnghii.csproj" />
 </Solution>
